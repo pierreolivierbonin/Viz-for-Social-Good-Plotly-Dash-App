@@ -1,4 +1,4 @@
-# This is a demo of my first Plotly Dashboard.
+# This is a demo of my first Plotly Dash web applications.
 
 It is based on Jose Portilla's "Interactive Python Dashboard with Plotly and Dash" course, available on Udemy.
 
