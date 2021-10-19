@@ -1,6 +1,3 @@
-# state of progress: complete mapbox graph, line 251 (objects + callback)
-# state of progress (latest): fix the error -->ValueError: invalid literal for int() with base 10: '1:55', which seems to indicate that dfc[features] includes mixed data types, while it should only be integers
-
 import plotly.graph_objects as go
 import dash
 import plotly.express as px
